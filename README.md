@@ -7,7 +7,7 @@
 - 🎓 &nbsp; Studying Computer Science at [KL University](https://www.kluniversity.in/).
 - 💻 &nbsp; [Blockchain Developer](https://devfolio.co/@danvisai).
 - 🚖 &nbsp; Currently working on the project AgriCrop(https://devfolio.co/projects/agricrop-3807).
-- 🚩 &nbsp; Enjoys participating in [Hackathons](https://ctfd.io/whats-a-ctf/](https://devfolio.co/ethernals/dashboard).
+- 🚩 &nbsp; Enjoys participating in [Hackathons](https://devfolio.co/ethernals/dashboard).
 - 💼 &nbsp; Worked as an Intern at SkillDzire and AICTE Cyber security.
 - 🌱 &nbsp; Constantly learning something new.
 
