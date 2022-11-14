@@ -47,3 +47,6 @@
 <h3>:mailbox: &nbsp;Connect with me</h3>
 
 <a href="(https://www.linkedin.com/in/s-danvi-sai-sapthasw-reddy-4856b8208/)" > <img width= "45" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"> </a> &nbsp;
+
+## Watch my contribution graph eaten by the snake🐍
+![snake gif](https://github.com/narayanbavisetti/narayanbavisetti/blob/output/github-contribution-grid-snake.gif)
