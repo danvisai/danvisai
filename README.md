@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 🎓 &nbsp; Studying Computer Graphics at Purdue University.
-- 💻 &nbsp; [Blockchain Developer](https://devfolio.co/@danvisai).
+
 - 💼 &nbsp; Worked as an Intern at SkillDzire and AICTE Cyber security.
 - 🌱 &nbsp; Constantly learning something new.
 
