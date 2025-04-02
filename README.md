@@ -5,8 +5,8 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3> 
 
 - 🎓 &nbsp; Studying Computer Graphics at Purdue University.
-
-- 💼 &nbsp; Worked as an Intern at SkillDzire and AICTE Cyber security.
+- Graduate Teaching Assistant at Purdue
+- 💼 &nbsp; Worked as an Intern at Aseda Sciences as VR developer.
 - 🌱 &nbsp; Constantly learning something new.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
